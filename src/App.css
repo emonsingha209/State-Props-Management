@@ -1,0 +1,7 @@
+.card {
+  max-width: 1020px;
+  margin-inline: auto;
+  background-color: #f2f2f2;
+  margin-top: 30px;
+  padding: 12px;
+}
