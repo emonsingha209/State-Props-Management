@@ -1,14 +1,11 @@
 import "./App.css";
+import CourseData from "./assets/data/course.json";
+import Table from "./components/Table";
 
 function App() {
   return (
     <>
-      <div className="card">
-        <h2>Table Title </h2>
-        <div>
-          
-        </div>
-      </div>
+      <Table courseData={CourseData} />
     </>
   );
 }
