@@ -5,6 +5,7 @@
   padding: 12px;
   border-radius: 6px;
   position: relative;
+  box-shadow: 2px 2px 5px 0px #00000040;
 }
 .table {
   display: block;
